@@ -1,4 +1,4 @@
-# project-on-Artificial-Neural-Network-model
+# simple-Artificial-Neural-Network-model
 
 used dataset : Mobile_Price_Classification.csv (attached)
 
